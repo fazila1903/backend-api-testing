@@ -5,7 +5,7 @@ Requirement:
 1. Clone the repo from GitHub 
 
 ```
-Git clone:
+git clone https://github.com/Fazila19/backend-api-testing.git
 ```
 2. Install the below dependencies 
 ```
@@ -27,5 +27,5 @@ behave --tags @TC_POSTS_01
 
 5. You can see the results in the terminal 
 
-Video has been attache 
+Video has been attached
 
